@@ -1,5 +1,4 @@
-,,Measured Depth,Measured Depth,Mud Weight,,
-,M/dd/yyyy,m,m,lbm/galUS,,
-1,07-02-17,2379,2532,11.02,,Stickslip
-2,07-02-17,2532,2602,11.02,,Stickslip
-3,07-03-17,2602,2671,11.02,,Stickslip
+Date,MeasuredDepth,MudWeight
+7/2/2017,2379,11.02
+7/2/2017,2532,11.02
+7/3/2017,2602,11.02
